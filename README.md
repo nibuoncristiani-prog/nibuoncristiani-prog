@@ -27,4 +27,4 @@ Qui sotto si trovano i repository dei progetti più corposi che ho realizzato:
 
 ### 📫 Contatti
 *   **Email:** alessio.buoncristiani.it@gmail.com
-*   **LinkedIn:** [Inserisci il tuo link]
+*   **LinkedIn:** 
