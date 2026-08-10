@@ -1,7 +1,7 @@
-# Ciao, sono Alessio Buoncristiani 👋
+# Ciao, sono Alessio Buoncristiani 
 
 Sono uno studente al terzo anno di Ingegneria Informatica presso l'Università di Pisa.
-Attualmente il mio obiettivo principale è superare gli ultimi 4 esami che mi separano dalla laurea triennale. Non avendo ancora scelto una specializzazione definitiva per la Magistrale, il mio percorso finora è stato volutamente generalista, permettendomi di studiare e testare diversi ambiti dell'informatica.
+Attualmente il mio obiettivo principale è superare gli ultimi esami che mi separano dalla laurea triennale. 
 
 Questo profilo GitHub nasce come archivio personale per raccogliere, ordinare e mostrare i progetti pratici che ho sviluppato per superare i vari esami universitari.
 
