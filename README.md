@@ -1,4 +1,4 @@
-# Ciao! Sono Alessio Buoncristiani 👋
+# Ciao! Sono Alessio Buoncristiani 
 
 🎓 **Studente di Ingegneria Informatica (BSc)** presso l'Università di Pisa (UniPi).
 Mi mancano pochissimi esami alla laurea (prevista per la prima metà del 2027). Attualmente sono alla ricerca di un'opportunità di **stage/tirocinio pratico** nel mondo dello sviluppo software per i mesi antecedenti l'inizio della Magistrale (primavera/estate 2027), per mettere in pratica quanto appreso e confrontarmi con dinamiche aziendali reali.
